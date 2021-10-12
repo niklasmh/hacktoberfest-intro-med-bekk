@@ -376,7 +376,7 @@ Man må ikke ta i mot t-skjorte, man kan også velge å plante et tre 🌲🌍
 
 Du kan finne mer informasjon på nettsiden deres.
 
-\*godkjent betyr at PR'en din ikke blir rapportert på 4 uker med "spam" eller "invalid" label.
+\*godkjent betyr at PR'en din ikke blir rapportert på x-antall dager med "spam" eller "invalid" label.
 
 ---
 
