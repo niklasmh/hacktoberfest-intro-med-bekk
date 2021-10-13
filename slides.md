@@ -126,7 +126,17 @@ ol > li:not(:last-child) {
 }
 </style>
 
-# Hacktoberfest intro 🎃
+<style scoped>
+section {
+  text-align: center;
+  padding-top: 25%;
+}
+</style>
+
+![bg vertical 50%](images/splash.png)
+![bg 600%](images/splash.png)
+
+# ... og litt om open-source generelt 🤗
 
 ## Niklas M. Hole
 
@@ -142,7 +152,7 @@ ol > li:not(:last-child) {
 
 Den er nesten som Oktoberfest, bare at:
 
-- Man ikke bruker lederhosen eller dirndl.
+- Man ikke bruker lederhosen eller dirndl
 
 ---
 
